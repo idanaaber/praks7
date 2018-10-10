@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+	background-color: black;
+}
+
+.container{
+	width: 1140px;
+	padding: 40vh;
+	color: white;
+
+
+}
+
+.container h1{
+	font-size: 75px;
+	color: white;
+}
+
+
+.container input{
+	color: white;
+	width: 310px;
+	
+	outline: 0;
+	font-size: 20px;
+}
+
